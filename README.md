@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a former IT consultant who is now a student studying astrophysics.
+Hobbies that require github include MicroMouse and student work
+
 <!--
 **paulbuzzby/paulbuzzby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
